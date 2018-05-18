@@ -21,7 +21,6 @@ class DosesController < ApplicationController
     redirect_to cocktails_path
   end
 
-
 private
 
   def dose_params
